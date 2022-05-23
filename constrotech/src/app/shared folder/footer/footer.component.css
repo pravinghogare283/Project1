@@ -1,0 +1,36 @@
+.footeraboutus{
+    text-align: justify;
+    line-height: 30px;
+    color: #979797;
+    font-size: 18px;
+}
+.links{
+    line-height: 30px;
+    font-size: 18px;
+}
+ul {
+    list-style-type: none;
+}
+ .abc:hover{
+     color: yellow;
+ }
+ .abc{
+     color: #979797;
+ }
+.abd{
+    color: white;
+
+}
+.abd:hover{
+    color: yellow;
+}
+.ft{
+    color: #979797;
+    
+}
+.contactinfofooter{
+    font-size: 18px;
+    line-height: 30px;
+
+}
+

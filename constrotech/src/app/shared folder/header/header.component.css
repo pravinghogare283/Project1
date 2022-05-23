@@ -1,0 +1,67 @@
+ #nav {
+     position: fixed;
+     width: 100%;
+     z-index: 999999;
+     margin-top: 34px;
+ }
+
+ #nav1 {
+     position: fixed;
+     /* display: block; */
+     width:  100%;
+     z-index: 1;
+
+
+
+
+
+
+ }
+
+ /* .navsds {
+     margin-top: 0rem !important;
+ } */
+
+ .tp-nav-bg {
+     background-color: darkgray;
+     border-bottom: 2px solid wheat;
+ }
+
+ .bottom-nav-bg {
+     background-color: darkgray;
+ }
+
+ .links {
+     text-decoration: none;
+ }
+
+ .pqr:hover {
+     color: yellow;
+ }
+
+ .pqr {
+     color: white;
+ }
+
+ .cards-wrapper {
+     display: flex;
+ }
+
+ .card {
+     margin: 0%;
+ }
+
+ /* .fa-solid{
+    text-align: center;
+width: 100px;
+height: 100px;
+border: 1px;
+margin-top: 100px;
+} */
+
+ /* .icon-ser{
+text-align: center;
+border: 1px solid;
+border-radius: 50%;
+
+} */
